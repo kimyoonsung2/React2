@@ -10,4 +10,4 @@
 동적 컴포넌트 로딩 dynamic
 
 정적 사이트 생성(SSG: Static Site Generation)
-1. 쉬운 확장 뛰ㅏ어난 성능 더 안전한 api 요청
+1. 쉬운 확장 뛰어난 성능 더 안전한 api 요청
